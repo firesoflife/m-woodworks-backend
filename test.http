@@ -1,0 +1,12 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "users":
+  {
+    "name": "Bryan Goertz",
+    "username": "firesoflife",
+    "email": "bryangoertz@gmail.com",
+    "password": "Sunny01skies!""
+  }
+  }
