@@ -1,24 +1,5 @@
-# README
+# Back End API for M-Woodworks
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Tecnologies and Dependencies
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- JWT auth for user sign in -- will be used for Evan to gain access to dashboard where he can add and delete galleries
