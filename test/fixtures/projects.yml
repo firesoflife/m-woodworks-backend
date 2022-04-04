@@ -2,12 +2,12 @@
 
 one:
   project_name: MyString
-  type: 
-  tags: MyString
-  gallery: MyString
+  project_type: MyString
+  project_tags: MyString
+  description: MyString
 
 two:
   project_name: MyString
-  type: 
-  tags: MyString
-  gallery: MyString
+  project_type: MyString
+  project_tags: MyString
+  description: MyString
